@@ -1,0 +1,185 @@
+/* ######################## TOPO ##################### */
+.bar_top_index{
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: -8px;
+	height: 20px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#adc7d0+0,b5cfd8+49,adc7d0+52,b5cfd8+100 */
+background: #adc7d0; /* Old browsers */
+background: -moz-linear-gradient(top, #adc7d0 0%, #b5cfd8 49%, #adc7d0 52%, #b5cfd8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#adc7d0), color-stop(49%,#b5cfd8), color-stop(52%,#adc7d0), color-stop(100%,#b5cfd8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* IE10+ */
+background: linear-gradient(to bottom, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#adc7d0', endColorstr='#b5cfd8',GradientType=0 ); /* IE6-9 */
+}
+
+.fundo_topo_index{
+	background-image: linear-gradient(to bottom, #fafafa 40%, #fcfcfc 50%);
+	height: 50px;	
+	margin-left: -10px;
+	margin-right: -15px;	
+}
+
+
+
+
+.btn_change_avatar{
+	position: absolute;
+	margin-top: 24px;
+	margin-left: 13px;	
+	opacity: 0.1;
+	transition: 0.5s;
+}
+
+.btn_change_avatar:hover{
+	cursor: pointer;
+	opacity: 0.9;
+		
+}
+
+
+.infos_topo{
+	
+	margin-left: 15px;
+	height: 50px;
+	float: left;
+		
+}
+
+
+
+.dados_pessoais{
+	margin-top: 6px;
+	margin-left: 10px;
+	float: left;
+	width: 150px;
+	height: 40px;
+	color: #9ca7ab;
+	
+}
+
+.nome_topo{
+	float: left;
+	font-size: 16px;
+	width: 210px;
+	height: 22px;
+}
+.turma_topo{
+	float: left;
+	font-size: 12px;
+	width: 210px;
+	height: 18px;
+}
+
+
+.bar_b_top_index{
+	margin-left: -10px;
+	margin-right: -8px;
+	height: 5px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#adc7d0+0,b5cfd8+49,adc7d0+52,b5cfd8+100 */
+background: #adc7d0; /* Old browsers */
+background: -moz-linear-gradient(top, #adc7d0 0%, #b5cfd8 49%, #adc7d0 52%, #b5cfd8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#adc7d0), color-stop(49%,#b5cfd8), color-stop(52%,#adc7d0), color-stop(100%,#b5cfd8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* IE10+ */
+background: linear-gradient(to bottom, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#adc7d0', endColorstr='#b5cfd8',GradientType=0 ); /* IE6-9 */	
+}
+/* ######################## FIMTOPO ##################### */
+
+/* ######################## TROFÉIS TOPO ##################### */
+.trofeis_topo{
+	margin-left: 10px;
+	margin-top: 10px;
+	height: 50px;	
+	border-bottom: 2px solid #adc7d0;
+}
+
+.trophy{
+	float: left;
+	padding-right: 10px;
+
+	
+	position:relative;	
+		
+}
+
+.trophy_img{
+	position: absolute;
+
+
+}
+
+.info_trophy{	
+	opacity: 0.9;
+	color: #666;
+	float: left;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 6px;
+	border:1px solid #111111;
+	padding-left: 2px;
+	padding-right: 2px;
+	position:relative;
+	height: 12px;
+	padding-bottom: 1px;
+	border-radius: 4px;
+	min-width: 12px;
+	-webkit-box-shadow: 1px 1px 4px 0px rgba(0,0,0,.2);
+	background-color:#FFF;
+	font-size: 10px;
+}
+
+
+/* ######################## FIM TROFÉIS ##################### */
+.button_img {
+	z-index: 30;
+	margin-left: 13px;	
+	opacity: 0.4;
+	transition: 0.5s;
+	position: absolute;
+	top: 50px;
+	
+}
+
+
+.file-wrapper{
+	cursor: pointer;	
+	border: 1 px solid #F00;
+}
+.file-wrapper input {
+	border: 1 px solid #F00;
+	overflow: hidden;
+	z-index: -1;
+	cursor: pointer;
+	height: 67px;
+	width: 42px;
+	left: 20px;
+	top: 0px;
+	position: absolute;
+	float: left;
+	-moz-opacity: 0.9;
+	opacity: 0.9;
+}
+
+.file-wrapper input:hover {
+	cursor: pointer;
+}
+
+.img_avatar_topo{
+	margin-top: 4px;
+	width: 38px;
+	height: 38px;
+	border: 1px solid #CCC;
+	border-radius: 1000px;
+	-webkit-border-radius: 1000px;
+	float:left;
+	overflow: hidden;
+	position: relative;
+	cursor: pointer;
+	z-index: 20000;
+}
+

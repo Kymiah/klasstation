@@ -1,0 +1,246 @@
+a:link {
+	color: #333;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #333;
+}
+a:hover {
+	text-decoration: none;
+	color: #adc7d0;
+}
+a:active {
+	text-decoration: none;
+}
+
+.html, body {
+	 height:100%;
+	 background-color:#f6f6f6;	
+}
+
+.geral{
+	margin-left:auto;
+	margin-right:auto;
+	min-height: 100%;
+	position: relative;
+		
+}
+
+.logo_index{
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+	margin-top: 120px;
+}
+
+
+.topo_login{
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: -8px;
+	height: 20px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#adc7d0+0,b5cfd8+49,adc7d0+52,b5cfd8+100 */
+background: #adc7d0; /* Old browsers */
+background: -moz-linear-gradient(top, #adc7d0 0%, #b5cfd8 49%, #adc7d0 52%, #b5cfd8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#adc7d0), color-stop(49%,#b5cfd8), color-stop(52%,#adc7d0), color-stop(100%,#b5cfd8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* IE10+ */
+background: linear-gradient(to bottom, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#adc7d0', endColorstr='#b5cfd8',GradientType=0 ); /* IE6-9 */
+}
+
+.centro_login{	
+	margin-top:20px;	
+	padding: 0	;	
+	
+}
+
+.box{
+	width: 380px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.box_topo_login{
+	width: 380px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 20px;	
+	
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#adc7d0+0,b5cfd8+49,adc7d0+52,b5cfd8+100 */
+background: #adc7d0; /* Old browsers */
+background: -moz-linear-gradient(top, #adc7d0 0%, #b5cfd8 49%, #adc7d0 52%, #b5cfd8 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#adc7d0), color-stop(49%,#b5cfd8), color-stop(52%,#adc7d0), color-stop(100%,#b5cfd8)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* IE10+ */
+background: linear-gradient(to bottom, #adc7d0 0%,#b5cfd8 49%,#adc7d0 52%,#b5cfd8 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#adc7d0', endColorstr='#b5cfd8',GradientType=0 ); /* IE6-9 */
+}
+
+.login{
+	background-image: linear-gradient(to bottom, #fafafa 40%, #fcfcfc 50%);
+	width: 380px;
+	display: block;
+	box-shadow:  2px 3px 2px 0 rgba(0,0,0,.1);
+	border-radius:2px;
+	border: 1px solid #CCC;
+	
+}
+
+
+
+.logo_login{		
+	float: left;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 24px;
+}
+
+.btn_voltar_cad{
+	font-weight: bolder;
+	width: 30px;
+	color: white;
+	text-align: center;
+	border-right: 1px solid #a0b7bf;	
+}
+
+.btn_voltar_cad:hover{
+	
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a0b7bf+0,b1c7d3+49,a4bbc4+52,abc3cc+100 */
+background: #a0b7bf; /* Old browsers */
+background: -moz-linear-gradient(top, #a0b7bf 0%, #b1c7d3 49%, #a4bbc4 52%, #abc3cc 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a0b7bf), color-stop(49%,#b1c7d3), color-stop(52%,#a4bbc4), color-stop(100%,#abc3cc)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #a0b7bf 0%,#b1c7d3 49%,#a4bbc4 52%,#abc3cc 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #a0b7bf 0%,#b1c7d3 49%,#a4bbc4 52%,#abc3cc 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #a0b7bf 0%,#b1c7d3 49%,#a4bbc4 52%,#abc3cc 100%); /* IE10+ */
+background: linear-gradient(to bottom, #a0b7bf 0%,#b1c7d3 49%,#a4bbc4 52%,#abc3cc 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a0b7bf', endColorstr='#abc3cc',GradientType=0 ); /* IE6-9 */
+}
+.titulo_login{
+	text-align: center;
+	height:53px;	
+	font-family: 'Quicksand', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	line-height: 40px;
+	font-size:16px;	
+	color: #adc7d0;		
+}
+
+
+
+.form_cadastro{
+	height: 0px;
+	font-size: 16px;
+	font-family: 'Quicksand', sans-serif;
+	-webkit-font-smoothing: antialiased;	
+	line-height: 2.0;
+	margin-left: 8%;
+	color: #333;
+	visibility: hidden;
+	transition-duration: 1s;
+}
+
+.form_aluno{
+	visibility: hidden;
+}
+
+.form_professor{
+	visibility: hidden;
+	margin-top: -370px;
+}
+
+.input_login{
+	border: 1px solid #CCC;
+	background-color: #FFF;	
+	font-size: 12px;
+	height: 20px;
+	width: 200px;
+	box-shadow:  1px 1px 1px 0 rgba(0,0,0,.05);
+	border-radius: 5px;
+	padding-left: 5px;
+}
+
+.input_idade{
+	border: 1px solid #CCC;
+	background-color: #FFF;	
+	font-size: 12px;
+	height: 20px;
+	box-shadow:  1px 1px 1px 0 rgba(0,0,0,.05);
+	border-radius: 5px;
+	padding-left: 5px;
+}
+
+.input_login:focus{
+	border: 1px solid #adc7d0;
+	box-shadow:  1px 1px 1px 0 rgba(0,0,0,.05);
+	border-radius: 5px;
+	outline: none;
+}
+
+.input_idade:focus{
+	border: 1px solid #adc7d0;
+	box-shadow:  1px 1px 1px 0 rgba(0,0,0,.05);
+	border-radius: 5px;
+	outline: none;
+}
+
+.btn_login{
+	background-color: #F3F3F3;
+	width: 270px;
+	height: 28px;
+	border: 1px solid #999;	
+	font-family: 'Quicksand', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	color: #000;
+	box-shadow:  2px 3px 2px 0 rgba(0,0,0,.1);
+	border-radius: 10px;
+	font-size: 15px;
+	font-weight: 600;
+	transition:.2s;
+	
+}
+
+.btn_login:hover{
+	border: 1px solid #999;
+	background-color: #adc7d0;
+	color: #FFF;	
+	cursor: pointer;
+}
+
+.esq_senha{
+	line-height: 2;
+	font-size: 12px;	
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+
+.descricao_login_texto{
+	margin-left: 15px;
+	margin-top: 4px;
+	font-family: 'Didact Gothic', sans-serif;
+	line-height: 1.6;
+	font-size: 13px;	
+}
+
+.cadastrar{
+	font-family: 'Didact Gothic', sans-serif;	
+	font-size: 15px;
+}	
+
+.tr_cadastrar{
+	background-color: #F60;
+	border: 1px solid #999;	
+	color: #333;	
+	cursor: pointer;	
+}
+
+.td_cadastrar a{
+	color: #FFF;
+}	
+
+.td_cadastrar a:hover{
+	color: #FF0;
+}	

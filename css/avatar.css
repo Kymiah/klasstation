@@ -1,0 +1,44 @@
+.pn_itens_avatar{
+	float: left;
+	width: 200px;
+	height: 300px;
+	/*border: 1px solid #9ca7ab;	*/
+
+}
+
+.pn_visualizar_avatar{
+	float:left;
+	padding-left: -1px;
+	width: 145px;
+	height: 145px;
+
+}
+
+.bg_box{
+
+	float: left;
+
+}
+
+.pn_itens_s{
+	float: left;
+	width: 200px;
+}
+
+
+
+.pn_itens_v{
+	position: absolute;
+
+}
+
+.box1{
+	float:left;
+	width: 400px;
+	height: 400px;
+
+}
+canvas {
+	max-width: 100%;
+	max-height: 100%;
+}

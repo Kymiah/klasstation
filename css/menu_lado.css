@@ -1,0 +1,41 @@
+.menu_lado{
+	float: left;
+	background:linear-gradient(to top, #fafafa 40%, #fcfcfc 50%);
+	height: 100%;
+	color: #596569;	
+	width:  220px;
+	margin-top: 60px;
+	margin-left: -10px;
+	border-right: 2px solid #adc7d0;
+	display: absolute; 
+	z-index: 9;
+	position: relative;
+	font-size: 12px;
+}
+
+
+
+.tree_lado{
+	margin-top: 10px;
+
+
+}
+
+.ing_n_curso
+{
+	width: 130px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:20px;
+}
+
+.titulo_curso{
+	position: relative;
+	margin: 10px;
+
+}
+
+/* ######################## FIM MENU ##################### */
+
+
