@@ -49,5 +49,3 @@ $id_logado_s = $_SESSION['id_user'];
 </div>
 </body>
 </html>
-
-oi
